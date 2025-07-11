@@ -19,6 +19,11 @@ A web-based personal journal application built with Java Servlet/JSP technology 
 - **Java Version**: JDK 17+
 - **Security**: BCrypt password hashing
 
+## 📱 Screenshot
+
+<img width="2541" height="1507" alt="Screenshot 2025-06-07 233116" src="https://github.com/user-attachments/assets/12ff991d-b98f-4132-82e3-e38215df1fb5" />
+<img width="2535" height="1503" alt="Screenshot 2025-06-08 202331" src="https://github.com/user-attachments/assets/483a2b9c-3ddc-4d6d-8500-9b548f8c357f" />
+
 ## 📦 Prerequisites
 
 Before running this application, make sure you have the following installed:
