@@ -19,6 +19,10 @@ A web-based personal journal application built with Java Servlet/JSP technology 
 - **Java Version**: JDK 17+
 - **Security**: BCrypt password hashing
 
+## 📱 Class Diagram
+
+<img width="2482" height="1706" alt="ClassDiagramJurpibadi drawio" src="https://github.com/user-attachments/assets/8badef3f-7259-4b18-8ee2-b5da4a803fc5" />
+
 ## 📱 Screenshot
 
 <img width="2541" height="1507" alt="Screenshot 2025-06-07 233116" src="https://github.com/user-attachments/assets/12ff991d-b98f-4132-82e3-e38215df1fb5" />
